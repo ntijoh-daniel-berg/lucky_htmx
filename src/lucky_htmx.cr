@@ -1,4 +1,4 @@
 require "lucky"
 
-module LuckyHtmx
+module LuckyHTMX
 end
